@@ -1,0 +1,7 @@
+.vscode/settings.json
+media
+viper/configs
+viper/logs
+*.pyc
+.env*
+*.log
